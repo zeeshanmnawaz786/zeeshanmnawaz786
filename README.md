@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeeshanmnawaz786
+- 👋 Hi, I’m Zeeshan Nawaz
 - 👀 I’m interested in new Technologies 
 - 🌱 I’m currently learning Blockchain 
 - 💞️ I’m looking for a job
