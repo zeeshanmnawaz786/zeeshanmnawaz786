@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Nawaz</h1>
-<h3 align="center">A Passionate Blockchain developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanmnawaz786&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanmnawaz786" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain Tech**
+- 🔭 I’m currently working on **Web base Applications**
 
 - 🌱 I’m currently learning **New Upcoming Tech like web3**
 
-- 👯 I’m looking to collaborate on **Blockchain Releated Projects**
+- 👯 I’m looking to collaborate on **New Upcoming Releated Projects**
 
-- 💬 Ask me about **Any thing about Blockchain related**
+- 💬 Ask me about **Any thing about Web base related**
 
 - 📫 To reach me out **zeeshanm.nawaz786@gamil.com**
 
