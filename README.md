@@ -15,6 +15,7 @@
 
 - 📫 To reach me out **zeeshanm.nawaz786@gamil.com**
 
+[![An image of @zeeshanmnawaz786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmnawaz786)](https://holopin.io/@zeeshanmnawaz786)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
